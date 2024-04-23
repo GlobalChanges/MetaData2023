@@ -1,0 +1,43 @@
+{
+  "id": "238046",
+  "year": "2023",
+  "freidok": "238046",
+  "issue": "238046",
+  "doi": "10.6094/UNIFR/238046",
+  "language": "de",
+  "orientation": "landscape",
+  "title": "50 Litre a Day keeps Day Zero away!",
+  "abstract": "50 Litre a Day keeps Day Zero away!\nKapstadt 2018 - ein Beispiel der globalen Wasserkrise",
+  "authors": [
+    {
+      "email": "sg401@uni-freiburg.de",
+      "firstname": "Sarah",
+      "name": "Geiger",
+      "freidok": "309862",
+      "orcid": ""
+    }
+  ],
+  "location": {
+    "country": "Südafrika",
+    "countries": [],
+    "continent": "Afrika",
+    "landscape": "Großstadt",
+    "latitude": -0.8988123854724641,
+    "longitude": 16.25673941948053,
+    "city": "",
+    "region": ""
+  },
+  "concept": "Risiko",
+  "topic": "Klimawandel",
+  "subtopic": "Wasser",
+  "period": {
+    "begin": 1950,
+    "end": 2022
+  },
+  "keywords": [],
+  "pdf": "https://globalchanges.github.io/MetaData2023/238046/poster.pdf",
+  "thumbnail": "https://globalchanges.github.io/MetaData2023/238046/thumbnail.png",
+  "icon": "https://globalchanges.github.io/MetaData2023/238046/icon.png",
+  "tiles": "https://globalchanges.github.io/MetaData2023/238046/tiles.dzi",
+  "sources": []
+}
